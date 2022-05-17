@@ -1,0 +1,59 @@
+#container {
+  background: #fff;
+  border-radius: 4px;
+  padding: 20px;
+  font-size: 16px;
+  text-align: center;
+  transition: all 0.2s;
+  margin: 1px auto;
+  width: 95%;
+  font-family: Helvetica;
+}
+
+#divSample {
+  float: left;
+  font-size: 12px;
+}
+
+#divGrid{
+  background: white;
+}
+
+button {
+  background: #0084ff;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 14px;
+  font-size: 15px;
+  color: #fff;
+}
+
+table {
+  border-collapse: collapse;
+  width: 70px;
+}
+.tbempty th, .tbempty td {
+    border: 1px solid #ffac00 !important;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+div {
+  padding: 3px;
+}
+
+
+.div-child {
+  float: left;
+  margin: 3px;
+}
+
+.divempty {
+  clear: both;
+  line-height: 0;
+  height: 0;
+}
